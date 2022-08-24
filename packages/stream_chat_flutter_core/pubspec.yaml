@@ -21,6 +21,7 @@ dependencies:
     git:
       url: git@github.com:pearpop-repo/stream-chat-flutter.git
       ref: develop
+      path: packages/stream_chat
 
 dev_dependencies:
   build_runner: ^2.0.1
